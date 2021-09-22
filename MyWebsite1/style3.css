@@ -1,0 +1,77 @@
+.welcome {
+    text-align: center;
+    margin-bottom: 50px;
+    color: black;
+    }
+    
+    .sep{
+        width: 50%;
+        margin: auto;
+        padding: 130px 0;
+    }
+    
+    .about{
+        text-align: justify;
+        font-size:18px ;
+        font-family:inherit;
+        color: black;
+        
+    }
+    
+    .image_bg{
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    h6{
+        color: white;
+        font-size: 16px;
+        font-weight: lighter;
+        
+    }
+    
+    .disclaimer{
+        width: 45%;
+    }
+    .topnav {
+        overflow: hidden;
+        background-color: rgba(0, 0, 0, 0.849);
+      }
+      
+      .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      
+      .topnav a:hover {
+        background-color: white;
+        color: black;
+      }
+      
+      .topnav a.active {
+        background-color: white;
+        color: black;
+      }
+      .logo{
+        float :left;
+      }
+    
+footer{
+
+        background-color: #6b6464f1;
+    
+    }
+
+    
+
+
+
+
+
+
+
